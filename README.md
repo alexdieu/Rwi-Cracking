@@ -5,4 +5,4 @@ Actually only working with portable version : http://download.rw-designer.com/20
 
 YOU HAVE TO RUN ONE OF THESE PROGRAMS IN RWIconEditor FOLDER ELSE IT WON'T WORK !
 
-edit : just ad shorcut of Patcher.bat on your desktop ;)
+edit : just ad shorcut of Patcher.bat or Patcher.py OR resetGUI.py on your desktop ;)
