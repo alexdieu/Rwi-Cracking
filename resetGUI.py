@@ -1,14 +1,15 @@
 import tkinter as tk
 from tkinter import ttk
 from tkinter import *
+import tkinter.messagebox as mb
 import os
 
 def reset():
   if os.path.exists("AppData\personal.ini"):
     os.remove("AppData\personal.ini")
-    ttk.messagebox.showinfo(title="Done", message="Patched !", **options)
+    mb.showinfo(title="Done", message="Patched !")
   else:
-    ttk.messagebox.showerror(title="RWI already reseted !", message="Please launch RWI one time else it won't work !", **options)
+    mb.showerror(title="RWI already reseted !", message="Please launch RWI one time else it won't work !")
 
 root = Tk()
 
