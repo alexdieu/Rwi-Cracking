@@ -9,7 +9,7 @@ def reset():
     os.remove("AppData\personal.ini")
     mb.showinfo(title="Done", message="Patched !")
   else:
-    mb.showerror(title="RWI already reseted !", message="Please launch RWI one time else it won't work !")
+    mb.showerror(title="RWI already reseted !", message="Please launch RWI at least one time else it won't work !")
 
 root = Tk()
 
