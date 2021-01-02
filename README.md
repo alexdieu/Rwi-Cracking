@@ -22,3 +22,9 @@ Depends what you are looking for .
 **MODIFICATIONS ON Real World Icon Editor :**
 
 Binary change : `68 EC 18 42 00` to `68 EC 18 6A` 
+
+#### PATCHED VERSION (RW PHOTOS EDITOR):
+
+BINARY CHANGING : `00005854:42->57`
+
+INFINITE TRIAL .
