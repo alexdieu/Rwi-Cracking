@@ -23,7 +23,7 @@ Depends what you are looking for .
 
 Binary change : `68 EC 18 42 00` to `68 EC 18 6A` 
 
-# PATCHED VERSION (RW PHOTOS EDITOR):
+## PATCHED VERSION (RW PHOTOS EDITOR):
 
 BINARY CHANGING : `00005854:42->57`
 
