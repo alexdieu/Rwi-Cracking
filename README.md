@@ -9,6 +9,8 @@ edit : just ad shorcut of Patcher.bat or Patcher.py OR resetGUI.py on your deskt
 
 ## PATCHED VERSION (PORTABLE VERSION):
 
+**32 BIT VERSION**
+
 *What was modified ?*
 
 The program is no longer able to read personal.ini (Trial is for ever). It just change personal.ini date with the actual date so it never ends .
